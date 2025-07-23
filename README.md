@@ -13,15 +13,16 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 
-**Project Type:** 
-Python-based GUI App
+**Expense Tracker App** 
 
 
 **Goal:** 
+
 Track expenses, categorize them, and view a pie chart summary.
 
 
 **Description**
+
 This is a simple Expense Tracker Application built using Python (Tkinter) and SQLite database. It allows users to:
 
 - Add expenses with date, category, amount, and description.
@@ -32,6 +33,7 @@ This is a simple Expense Tracker Application built using Python (Tkinter) and SQ
 
 
 **Features**
+
 - Add expense with proper validation
 
 - Categories: Food, Transport, Utilities, Entertainment, Other
@@ -44,6 +46,7 @@ This is a simple Expense Tracker Application built using Python (Tkinter) and SQ
 
 
 **Technologies Used**
+
 - Component	Tech Used
 - Language	Python 3
 - GUI Framework	Tkinter
@@ -52,6 +55,7 @@ This is a simple Expense Tracker Application built using Python (Tkinter) and SQ
 
 
 **How to Run**
+
 *Requirements:*
 Make sure Python is installed. Install dependencies (if not already):
 
@@ -67,15 +71,8 @@ Edit
 python expense_tracker.py
 
 
-**Sample Data (In App)**
-------------------------------------------------------
-| Date	     | Category  | Amount |	Description      |
-| 2025-07-23 | Food	     |  150	  | Lunch with team  |
-| 2025-07-24 | Transport |	 70	  | Auto fare        |
-------------------------------------------------------
-
-
 **Future Improvements**
+
 - Export expenses to CSV or PDF
 
 - Add filters (by date or category)
@@ -90,5 +87,5 @@ python expense_tracker.py
 
 
 **Output:**
-
+<img width="1465" height="830" alt="Image" src="https://github.com/user-attachments/assets/90f491fc-8dff-4470-b897-160945f507c6" />
 
