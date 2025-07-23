@@ -1,16 +1,17 @@
 # EXPENSE-TRACKER-APP-2-ANDROID-TASK-1
 
-COMPANY: CODTECH IT SOLUTIONS PVT.LTD
+*COMPANY:* CODTECH IT SOLUTIONS PVT.LTD
 
-NAME: SAMEER KUMAR MISHRA
+*NAME:* SAMEER KUMAR MISHRA
 
-INTERN ID: CT04DZ379
+*INTERN ID:* CT04DZ379
 
-DOMAIN: PYTHON PROGRAMMING
+*DOMAIN:* PYTHON PROGRAMMING
 
-DURATION: 4 WEEKS
+*DURATION:* 4 WEEKS
 
-MENTOR: NEELA SANTHOSH KUMAR
+*MENTOR:* NEELA SANTHOSH KUMAR
+
 
 
 **Expense Tracker App** 
@@ -80,10 +81,6 @@ python expense_tracker.py
 - Show total expense and balance
 
 - Add login system for multiple users
-
-
-**Developed by:**
-*Sameer Kumar Mishra*
 
 
 **Output:**
